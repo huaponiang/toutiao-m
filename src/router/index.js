@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import '@/styles/index.less'
+
+// 加载图表样式
+import '@/styles/font/iconfont.css'
 Vue.use(VueRouter)
 
 // 路由表
